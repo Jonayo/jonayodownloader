@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-1.3.0-blue.svg" alt="Versión">
+  <img src="https://img.shields.io/badge/version-2.2.0-blue.svg" alt="Versión">
   <img src="https://img.shields.io/badge/plataforma-Windows-informational.svg" alt="Windows">
   <img src="https://img.shields.io/badge/licencia-Gratis-brightgreen.svg" alt="Gratis">
 </p>
@@ -53,7 +53,7 @@ El programa revisa automáticamente si existe una versión nueva en [Releases](h
 
 ## Tecnología
 
-Construido con Python, interfaz en CustomTkinter y motor de descarga `yt-dlp`. El código se protege con ofuscación PyArmor.
+Construido con Python, interfaz en CustomTkinter y motor de descarga `yt-dlp`. El programa se distribuye compilado a código nativo (Cython): el instalador no lleva código fuente.
 
 ---
 
