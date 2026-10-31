@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-2.2.0-blue.svg" alt="Versión">
+  <img src="https://img.shields.io/badge/version-2.2.1-blue.svg" alt="Versión">
   <img src="https://img.shields.io/badge/plataforma-Windows-informational.svg" alt="Windows">
   <img src="https://img.shields.io/badge/licencia-Gratis-brightgreen.svg" alt="Gratis">
 </p>
@@ -30,13 +30,13 @@
 
 ### Opción recomendada: instalador
 
-1. Descarga **`JonayoDownloader-Setup-2.2.0.exe`** desde la sección [Releases](https://github.com/Jonayo/jonayodownloader/releases).
+1. Descarga **`JonayoDownloader-Setup-2.2.1.exe`** desde la sección [Releases](https://github.com/Jonayo/jonayodownloader/releases).
 2. Ejecútalo y sigue los pasos (se instala en *Program Files*, como cualquier programa).
 3. El programa queda listo desde el menú Inicio (y opcionalmente un acceso directo en el escritorio).
 
 ### Opción portátil
 
-1. Descarga el archivo **`JonayoDownloader-Setup-2.2.0.exe`**.
+1. Descarga el archivo **`JonayoDownloader-Setup-2.2.1.exe`**.
 2. Extrae la carpeta completa en cualquier ubicación.
 3. Ejecuta `JonayoDownloader.exe`.
 
