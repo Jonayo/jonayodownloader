@@ -1,1 +1,5 @@
-﻿{"version": "2.1.0", "notes": "Ver videos sin anuncios + descarga directa con peso + 1 clic", "url": "https://github.com/Jonayo/jonayodownloader/releases/download/v2.1.0/JonayoDownloader-Setup-2.1.0.exe"}
+{
+  "version": "2.2.0",
+  "notes": "Pestaña Descargar música: buscador, preescucha sin video, MP3 320 y descargas simultáneas con barra de progreso",
+  "url": "https://github.com/Jonayo/jonayodownloader/releases/download/v2.2.0/JonayoDownloader-Setup-2.2.0.exe"
+}
